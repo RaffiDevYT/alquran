@@ -15,7 +15,7 @@
             <a
                 class="nav-link active"
                 aria-current="page"
-                href="https://github.com/RaffiDevYT/al-quran-digital"
+                href="https://github.com/RaffiDevYT/alquran"
                 target="_blank"
                 ><svg
                     xmlns="http://www.w3.org/2000/svg"
